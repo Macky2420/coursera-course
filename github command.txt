@@ -1,0 +1,10 @@
+command in GIT
+	
+1. git clone "link of your server in github" ex https://github.com/Macky2420/coursera-course.git
+2. git status "to check if where your location in github"
+3. git checkout "name of branch you want to show if it is available" ex. gh-pages
+4. mkdir "name of file" - to create file 
+5. git add . "to add new file in your database in github"
+6. git config --global user.email "markietaneo14@gmail.com" - to tell your cmd that the file you want to commit in github is store in your gmail account which is used in github
+7. git commit -m "message or comment" - to make sure that your file created is commited to be used in your server
+8. git push - to transfer your file created into your specefied folder you want to be stored
